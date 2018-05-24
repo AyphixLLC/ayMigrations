@@ -1,0 +1,6 @@
+node_modules/*
+laravel_migrations/*
+migrate_config/*
+index-win.exe
+index-macos
+index-linux

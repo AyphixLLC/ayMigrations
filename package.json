@@ -1,0 +1,17 @@
+{
+  "name": "aymigrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-format": "^1.0.1",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "mysql2": "^1.5.3"
+  }
+}
